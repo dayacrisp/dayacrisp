@@ -1,7 +1,8 @@
-### Hi there :wave:
+### Olá, mundo! :wave:
 
-Sou a Day, estou em fase de transição de carreira da área da Educação e Saúde para a área de Desenvolvimento Web. 
-Atualmente estou me especializando em Desenvolvimento Front-End.
+Sou a Day, estou em fase de transição de carreira da área da Educação e Saúde para a área de Desenvolvimento Web.
+<br>
+Atualmente, faço parte da turma do <a href="https://rodolfomori.com.br/devclub-n1/"> DevClub</a>, em desenvolvimento Web Full Stack.
 <br>
 <br>
 
